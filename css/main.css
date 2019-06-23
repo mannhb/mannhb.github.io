@@ -1,0 +1,82 @@
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: darkslategrey;
+	padding: 40px;
+}
+
+.infoheader {
+	line-height: .7;
+	margin-bottom: 25px;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	color: lightsalmon;
+}
+
+a:hover {
+	color: skyblue;
+}
+
+.links p {
+	line-height: 0.5;
+}
+
+hr {
+	border: 2px solid darkslategrey;
+}
+
+.experience {
+	margin-top: 30px;
+}
+
+span {
+	font-style: italic;
+}
+
+#one,
+#two,
+#three,
+#four {
+	line-height: 1.3;
+}
+
+.education p {
+	line-height: 1.3
+}
+
+.classes {
+	line-height: 1.5;
+}
+
+#copyright {
+	margin-top: 45px;
+	display: block;
+	text-align: center;
+    font-family: Verdana, Arial, sans-serif; 
+}
+
+/*Meida Queries*/
+
+@media (min-width: 1020px) {
+	html {
+		background-color: whitesmoke;
+	}
+	body {
+		background-color: floralwhite;
+		margin: 60px;
+		border: 1px solid black;
+		box-shadow: 3px 3px lightgrey;
+		max-width: 1020px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.skills p {
+		padding: 10px;
+		color: lightsalmon;
+		background-color: grey;
+	}
+}
