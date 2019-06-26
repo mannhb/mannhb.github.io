@@ -1,3 +1,3 @@
 # mannhb.github.io
 
-Personal website 1.0.  
+Personal website 1.0
