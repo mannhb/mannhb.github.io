@@ -61,7 +61,7 @@ span {
 .footer {
   display: inline-block; 
   position: absolute; 
-  margin-top: 5px;
+  margin-top: 2px;
   left: 50%; 
   font-family: Verdana, Arial, sans-serif;
   color: black;
