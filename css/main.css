@@ -51,11 +51,20 @@ span {
 	line-height: 1.5;
 }
 
-#copyright {
+/* #copyright {
 	margin-top: 45px;
 	display: block;
 	text-align: center;
     font-family: Verdana, Arial, sans-serif; 
+} */
+
+.footer {
+  display: inline-block; 
+  position: absolute; 
+  margin-top: 5px;
+  left: 50%; 
+  font-family: Verdana, Arial, sans-serif;
+  color: black;
 }
 
 /*Meida Queries*/
